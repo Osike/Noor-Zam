@@ -218,7 +218,7 @@ nav ul li a:hover {
     flex: 1;
 }
 
-/*.about-image {
+.about-image {
     flex: 1;
     border-radius: 10px;
     overflow: hidden;
@@ -229,30 +229,8 @@ nav ul li a:hover {
     width: 100%;
     height: auto;
     display: block;
-}*/
-/* about image section */
-.rhombus-wrapper {
-    width: 300px; /* Adjust the size as needed */
-    height: 300px; /* Adjust the size as needed */
-    overflow: hidden;
-   
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.about-image {
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
-.rhombus-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  
-}
-/* about image end edit */
 /* Services section */
 .services {
     padding: 5rem 2rem;
